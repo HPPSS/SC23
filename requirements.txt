@@ -1,0 +1,7 @@
+breathe
+pytz
+Sphinx
+sphinx-fortran
+sphinx-rtd-theme
+sphinx-copybutton
+
