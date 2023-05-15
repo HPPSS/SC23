@@ -13,8 +13,8 @@ Pete received a PhD in astrophysics from the University of Minnesota in 2011, wh
 study outflows from supermassive blackholes.
 
 .. figure:: images/pete.mendygral.png
-   :align: center
-   :scale: 30 %
+   :align: left
+   :scale: 15 %
 
 
 Sam Foreman (Argonne National Labs)
@@ -26,8 +26,8 @@ within the context of high performance computing. Sam's current research focuses
 help build better sampling algorithms for simulations in lattice gauge theory.
 
 .. figure:: images/sf_headshot_iowa.jpeg
-   :align: center
-   :scale: 30 %
+   :align: left
+   :scale: 40 %
 
 
 Daniel Margala (National Energy Research Scientific Computing Center)
@@ -40,8 +40,8 @@ computing with GPUs using Python. Daniel has a PhD in Physics from the Universit
 Physics from the University of California, Los Angeles.
 
 .. figure:: images/Daniel-480__ScaleHeightWzE1MF0.jpg
-   :align: center
-   :scale: 30 %
+   :align: left
+   :scale: 100 %
 
 
 Techical Program Committee

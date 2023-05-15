@@ -5,7 +5,9 @@ SC23 Workshop: High Performance Python for Science at Scale (HPPSS)
    :align: center
    :scale: 90 %
 
-Expanding scientific discovery with High-Performance Computing through Python at scale.
+|
+**Expanding scientific discovery with High-Performance Computing through Python at scale.**
+
 
 About
 =====
