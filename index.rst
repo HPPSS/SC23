@@ -1,7 +1,7 @@
 SC23 Workshop: High Performance Python for Science at Scale (HPPSS)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-.. figure:: ../images/DevCloud_registration.jpg
+.. figure:: images/logo-date.svg
    :align: center
    :scale: 90 %
 
