@@ -1,9 +1,8 @@
 SC23 Workshop: High Performance Python for Science at Scale (HPPSS)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-.. figure:: images/logo-date.svg
-   :align: center
-   :scale: 90 %
+.. raw:: html
+    :file: images/logo-date.svg
 
 Expanding scientific discovery with High-Performance Computing through Python at scale.
 
@@ -21,7 +20,6 @@ future of Python in HPC and science.
 Denver, Colorado, November 12-17, 2023.
 
 .. toctree::
-
     :caption: Contents
     :maxdepth: 1
 
