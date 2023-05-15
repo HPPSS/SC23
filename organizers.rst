@@ -16,6 +16,7 @@ HPC in the cloud and technologies focused on productivity and efficiency for com
 Pete received a PhD in astrophysics from the University of Minnesota in 2011, where he developed HPC applications to
 study outflows from supermassive blackholes.
 
+|
 
 Sam Foreman (Argonne National Labs)
 -----------------------------------
@@ -29,6 +30,7 @@ He is generally interested in the application of machine learning to computation
 within the context of high performance computing. Sam's current research focuses on using deep generative modeling to
 help build better sampling algorithms for simulations in lattice gauge theory.
 
+|
 
 Daniel Margala (National Energy Research Scientific Computing Center)
 ---------------------------------------------------------------------
@@ -43,6 +45,7 @@ working with the Dark Energy Spectroscopic Instrument (DESI) data processing tea
 computing with GPUs using Python. Daniel has a PhD in Physics from the University of California, Irvine and a BS in
 Physics from the University of California, Los Angeles.
 
+|
 
 Techical Program Committee
 ==========================
