@@ -16,21 +16,22 @@ else
 	endif
 endif
 
-default: html
-
-clean:
-	rm -Rf $(BUILDDIR)
-	rm -Rf docs
-
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 
+.PHONY: html
 html: clean
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 	mv $(BUILDDIR)/html docs
 	rm -Rf $(BUILDDIR)
 	touch docs/.nojekyll
 
+.PHONY: clean
+clean:
+	rm -Rf $(BUILDDIR)
+	rm -Rf docs
+
+.PHONY: pub
 pub:
 	git checkout pub
 	git rm -r docs
