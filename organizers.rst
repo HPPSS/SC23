@@ -52,9 +52,10 @@ Techical Program Committee
 
 * Venkat Vishwanath (Argonne National Labs)
 * Christine Simpson (Argonne National Labs)
-* Rollin Thomas (National Energy Research Scientific Computing Center)
 * Laurie Stephey (National Energy Research Scientific Computing Center)
 * Brandon Cook (National Energy Research Scientific Computing Center)
+* Rollin Thomas (National Energy Research Scientific Computing Center)
+* Bjoern Enders (National Energy Research Scientific Computing Center)
 * Eric Eilertson (Microsoft)
 * Sreenivas Rangan Sukumar (Hewlett Packard Enterprise)
 * Davin Potts (Appliomics)
