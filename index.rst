@@ -16,7 +16,7 @@ About
 This workshop aims to connect researchers, developers, and Python practitioners to share their experiences
 scaling Python applications and codes on supercomputers. The goal is to provide a platform for topical
 discussion of best practices, hands-on demonstrations, and community engagement via open-source contributions
-to new libraries, runtimes, and frameworks. Based on keynote talks that survey and summarize the best
+to new libraries, runtimes, and frameworks. Based on invited talks that survey and summarize the best
 practices and recent success stories, panel sessions that discuss details of implementation and live demo
 sessions for hands-on enthusiasts – the workshop will serve as a requirements gathering exercise for the
 future of Python in HPC and science.
