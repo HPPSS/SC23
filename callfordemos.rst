@@ -10,11 +10,12 @@ helpful for the audience's understanding, but be sure to show and discuss how th
 Important Dates
 ===============
 
-* Submission opens: June XX, 2023
-* Paper Submission deadline: August XX, 2023
-* Decisions: September XX, 2023
-* Camera ready due: October XX, 2023
-* November 12-17th: SC23 conference and HPPSS half-day workshop (date to be announced)
+* Submission opens: June 1, 2023
+* Paper Submission deadline: August 8, 2023
+* Decisions: September 8, 2023
+* Camera ready due: September 29, 2023
+* SC23 conference: November 12-17th
+* HPPSS half-day workshop: morning of November 12th
 
 
 Interest Areas
