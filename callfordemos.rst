@@ -75,18 +75,16 @@ the demo and what is being shown. Submissions accepted to the conference will ha
 updated video that does not include commentary. The presenter should be prepared to describe the demo video as part
 of their presentation.
 
-We have created a Zenodo [1]_ community: `HPPSS – Zenodo <TODO>`__ for contributors to upload their video submissions
-for the workshop.
+We have created a Zenodo [1]_ community: `HPPSS – Zenodo <https://zenodo.org/communities/hppss>`__ for contributors to
+upload their video submissions for the workshop.
 
 Zenodo Instructions
 ^^^^^^^^^^^^^^^^^^^
 
-1. Follow the link to `the submission
-   page <https://SUBMISSION-PAGE.com>`__
-2. Login / Create a `Zenodo Account <https://zenodo.org/>`__
-3. Upload your submission to the **New upload** page
-4. Add appropriate metadata and populate fields with required
-   information [2]_
+1. Login / Create a `Zenodo Account <https://zenodo.org/>`__
+2. Follow the link to `the HPPSS community submission page <https://zenodo.org/communities/hppss>`__
+3. Upload your submission using the **New upload** button on the HPPSS community page
+4. Add appropriate metadata and populate fields with required information [2]_
 5. Fill in keywords
 6. Choose a license and determine access rights.
 
