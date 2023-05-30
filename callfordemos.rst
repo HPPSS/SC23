@@ -2,7 +2,7 @@ Call for Demos!
 +++++++++++++++
 
 HPPSS is accepting submissions that demonstrate the application of a technology for greatly enhancing the performance
-and capability of Python at scale. Technologies that are applicabale to a wide range of use-cases and accessible
+and capability of Python at scale. Technologies that are applicable to a wide range of use-cases and accessible
 to a broad user base are of particular interest. Showing technologies applied to specific use-cases can be very
 helpful for the audience's understanding, but be sure to show and discuss how they generalize.
 
@@ -38,21 +38,18 @@ Submission Format
 Submissions can be made in either the Demo or Work-in-progress tracks. Both tracks will feature work that is innovative
 and of significant interest to the community.
 
+
 Demos
 -----
 
 The Demo track is for more mature work and should be based on examples/code that is accessible to anyone in the
 audience. These submissions include a 4-page paper, demo recording, and presentation designed around the demo.
 
-TODO: 4-page template
-
 Work-in-progress
 ----------------
 
 The Work-in-progress track is for work that may not be ready for community adoption but demonstrates the direction
 and would benefit from community feedback. These submissions include an abstract and demo recording.
-
-TODO: abstract template
 
 
 How to Submit
@@ -65,7 +62,24 @@ Paper or Abstract Submission
 
    <a href="https://submissions.supercomputing.org/?page=Submit&id=SC23WorkshopHPPSSSubmission&site=sc23" target="_blank">SC23 HPPSS Workshop Submissions</a>
 
+
+.. |ACMTemp| raw:: html
+
+   <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>
+
+
+.. |HPPSSemail| raw:: html
+
+   <a mailto="sc-ws-hpcsysp@info.supercomputing.org" target="_blank">sc-ws-hpcsysp@info.supercomputing.org</a>
+
+Submissions are either abstracts or 4-page short papers, including references and figures, depending on the track above.
+Templates and the ACM computing classification system can be found here: |ACMTemp|
+
 You can create a submission at |SC23Sub|.
+
+Instructions for preparing papers for the proceedings will be emailed to authors of accepted papers. For queries
+concerning papers (submission, deadlines, publishing, etc.) please contact |HPPSSemail|.
+
 
 Demo Video Submission
 ---------------------
