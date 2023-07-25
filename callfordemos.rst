@@ -70,7 +70,7 @@ Paper or Abstract Submission
 
 .. |HPPSSemail| raw:: html
 
-   <a href="mailto:sc-ws-hpcsysp@info.supercomputing.org" target="_blank">sc-ws-hpcsysp@info.supercomputing.org</a>
+   <a href="mailto:pete.mendygral@hpe.com" target="_blank">pete.mendygral@hpe.com</a>
 
 Submissions are either abstracts or 4-page short papers, including references and figures, depending on the track above.
 Templates and the ACM computing classification system can be found here: |ACMTemp|
