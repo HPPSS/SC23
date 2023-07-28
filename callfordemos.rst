@@ -70,7 +70,7 @@ Paper or Abstract Submission
 
 .. |HPPSSemail| raw:: html
 
-   <a href="mailto:pete.mendygral@hpe.com" target="_blank">pete.mendygral@hpe.com</a>
+   <a href="mailto:sc-ws-hppss@info.supercomputing.org" target="_blank">sc-ws-hppss@info.supercomputing.org</a>
 
 Submissions are either abstracts or 4-page short papers, including references and figures, depending on the track above.
 Templates and the ACM computing classification system can be found here: |ACMTemp|
@@ -78,7 +78,7 @@ Templates and the ACM computing classification system can be found here: |ACMTem
 You can create a submission at |SC23Sub|.
 
 Instructions for preparing papers for the proceedings will be emailed to authors of accepted papers. For queries
-concerning papers (submission, deadlines, publishing, etc.) please contact |HPPSSemail|.
+concerning papers (submission, deadlines, publishing, etc.) please contact: |HPPSSemail|
 
 
 Demo Video Submission
