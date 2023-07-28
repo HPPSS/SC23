@@ -47,7 +47,7 @@ Physics from the University of California, Los Angeles.
 
 |
 
-Techical Program Committee
+Technical Program Committee
 ==========================
 
 * Venkat Vishwanath (Argonne National Labs)
