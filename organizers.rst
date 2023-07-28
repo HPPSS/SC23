@@ -48,7 +48,7 @@ Physics from the University of California, Los Angeles.
 |
 
 Technical Program Committee
-==========================
+===========================
 
 * Venkat Vishwanath (Argonne National Labs)
 * Christine Simpson (Argonne National Labs)
