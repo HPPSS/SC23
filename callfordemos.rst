@@ -10,8 +10,11 @@ helpful for the audience's understanding, but be sure to show and discuss how th
 Important Dates
 ===============
 
+.. role:: strike
+    :class: strike
+
 * Submission opens: June 1, 2023
-* Paper Submission deadline: August 8, 2023
+* Paper Submission deadline: :strike:`August 8, 2023` updated to August 15, 2023
 * Decisions: September 8, 2023
 * Camera ready due: September 29, 2023
 * SC23 conference: November 12-17th
@@ -75,10 +78,14 @@ Paper or Abstract Submission
 Submissions are either abstracts or 4-page short papers, including references and figures, depending on the track above.
 Templates and the ACM computing classification system can be found here: |ACMTemp|
 
+For Latex users, version 1.90 (last update April 4, 2023) is the latest template, and please use the “sigconf” option.
+
 You can create a submission at |SC23Sub|.
 
 Instructions for preparing papers for the proceedings will be emailed to authors of accepted papers. For queries
-concerning papers (submission, deadlines, publishing, etc.) please contact: |HPPSSemail|
+concerning papers (submission, deadlines, publishing, etc.) please contact:
+
+|HPPSSemail|
 
 
 Demo Video Submission
