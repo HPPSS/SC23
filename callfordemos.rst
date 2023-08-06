@@ -10,11 +10,8 @@ helpful for the audience's understanding, but be sure to show and discuss how th
 Important Dates
 ===============
 
-.. role:: strike
-    :class: strike
-
 * Submission opens: June 1, 2023
-* Paper Submission deadline: :strike:`August 8, 2023` updated to August 15, 2023
+* Paper Submission deadline: updated to August 15, 2023 (previously August 8, 2023)
 * Decisions: September 8, 2023
 * Camera ready due: September 29, 2023
 * SC23 conference: November 12-17th
