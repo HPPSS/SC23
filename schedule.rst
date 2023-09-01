@@ -1,8 +1,8 @@
 Workshop Schedule
 +++++++++++++++++
 
-Please stay tuned for updates on the agenda for the day. We are very pleased to announce the invited speaker for the
-workshop is Travis Oliphant.
+HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM. Please stay tuned for updates on the agenda for
+the day. We are very pleased to announce the invited speaker for the workshop is Travis Oliphant.
 
 Travis Oliphant (Quansight) - Invited Speaker
 =============================================
