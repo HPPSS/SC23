@@ -60,4 +60,4 @@ Technical Program Committee
 * Eric Eilertson (Microsoft)
 * Sreenivas Rangan Sukumar (Hewlett Packard Enterprise)
 * Davin Potts (Appliomics)
-* Benjamin Keen
+* Benjamin Keen (Microsoft)

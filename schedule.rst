@@ -35,6 +35,7 @@ travis@quansight.com
 Panel Discussion
 ================
 
+
 Fernanda Foertter (Voltron Data)
 --------------------------------
 
@@ -60,7 +61,7 @@ Torsten Hoefler (ETH Zurich)
 
 .. figure:: images/hoefler_dinfk.jpg
    :align: left
-   :scale: 15 %
+   :scale: 10 %
 
 Torsten Hoefler is a Professor of Computer Science at ETH Zurich, a member of Academia Europaea, and a Fellow of the
 ACM and IEEE. His research interests revolve around the central topic of "Performance-centric System Design" and include
@@ -72,13 +73,12 @@ Jack Dongarra award, the Latsis prize of ETH Zurich, as well as both ERC startin
 information about Torsten can be found on his homepage at htor.inf.ethz.ch.
 
 
-
 Siu Kwan (Anaconda)
 -------------------
 
 .. figure:: images/siu_profile.JPG
    :align: left
-   :scale: 15 %
+   :scale: 20 %
 
 Siu Kwan Lam is the lead developer of the Numba open-source compiler project at Anaconda. He received an MS degree in
 computer engineering from San Jose State University. During his academic journey, he had the privilege of assisting in
@@ -90,7 +90,7 @@ framework. He remains passionate about exploring ways to integrate compiler tech
 Travis Oliphant (Quansight)
 ---------------------------
 
-Travis is our invited speaker, and you can larn more about him :ref:`here<Travis>`.
+Travis is our invited speaker, and you can learn more about him :ref:`here<Travis>`.
 
 
 Ben Zaitlan (NVIDIA)
@@ -102,11 +102,11 @@ Richard Zamora (NVIDIA)
 
 .. figure:: images/Rick_Zamora_Headshot.png
    :align: left
-   :scale: 15 %
+   :scale: 20 %
 
 Richard (Rick) Zamora is a Senior Systems Software Engineer on the RAPIDS team at NVIDIA. After earning his PhD at
 Cornell University, he began his career in the Theoretical Division at Los Alamos National Laboratory, and eventually
 moved into parallel-computing research and high-performance software engineering. Richard is currently working to
 improve the performance and scalability of distributed RAPIDS libraries (especially Dask cuDF) and is a frequent
-contributor to several open-source python projects.
+contributor to several open-source Python projects.
 
