@@ -86,6 +86,8 @@ the development and instruction of the CUDA programming course. In collaboration
 Siu Kwan played a part in the early stages of the GPU DataFrame project, which eventually evolved into the RAPIDS
 framework. He remains passionate about exploring ways to integrate compiler technologies into the Python ecosystem.
 
+|
+
 
 Travis Oliphant (Quansight)
 ---------------------------
