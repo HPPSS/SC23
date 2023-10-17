@@ -35,6 +35,7 @@ travis@quansight.com
 Panel Discussion
 ================
 
+We are excited to welcome the following collegues to participate in a panel discussion during the workshop!
 
 Fernanda Foertter (Voltron Data)
 --------------------------------
@@ -88,11 +89,10 @@ framework. He remains passionate about exploring ways to integrate compiler tech
 
 |
 
-
 Travis Oliphant (Quansight)
 ---------------------------
 
-Travis is our invited speaker, and you can learn more about him :ref:`here<Travis>`.
+Travis is also our invited speaker, and you can learn more about him :ref:`here<Travis>`.
 
 
 Ben Zaitlan (NVIDIA)
