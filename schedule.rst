@@ -3,31 +3,33 @@ Workshop Schedule
 
 HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM MT.
 
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| Event                                                              | Speaker(s)                                        | Time                |
-+====================================================================+===================================================+=====================+
-| HPPSS Introduction                                                 | Pete Mendygral, Daniel Margala, Sam Foreman       | 9 AM - 9:15 AM      |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| Invited Speaker                                                    | Travis Oliphant                                   | 9:15 AM - 10 AM     |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| Morning Break                                                      |                                                   | 10 AM - 10:30 AM    |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| Demonstration of Portable Performance of Scientific Machine        | Khalid Hossain                                    | 10:30 AM - 10:45 AM |
-|                                                                    |                                                   |                     |
-| Learning on High Performance Computing Systems                     |                                                   |                     |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| WisdomWombat: A Polyglot Dataflow CFD Code Using Python and Dragon | Julius Donnert                                    | 10:45 AM - 11 AM    |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| Maximizing Data Utility for HPC Python Workflow Execution          | Thanh Son Phung                                   | 11 AM - 11:15 AM    |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| Dragon Proxy Runtimes and Multi-System Workflows                   | Nick Radcliffe                                    | 11:15 AM - 11:30 AM |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| HPPSS Panel Discussion                                             | Fernanda Foertter, Torsten Hoefler, Siu Kwan Lam, | 11:30 AM - 12:20 PM |
-|                                                                    |                                                   |                     |
-|                                                                    | Travis Oliphant, Ben Zaitlen, Richard Zamora      |                     |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
-| HPPSS Concluding Remarks                                           | Pete Mendygral, Daniel Margala, Sam Foreman       | 12:20 PM - 12:30 PM |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| Event                                                          | Speaker(s)                                        | Time                |
++================================================================+===================================================+=====================+
+| HPPSS Introduction                                             | Pete Mendygral, Daniel Margala, Sam Foreman       | 9 AM - 9:15 AM      |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| Invited Speaker                                                | Travis Oliphant                                   | 9:15 AM - 10 AM     |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| Morning Break                                                  |                                                   | 10 AM - 10:30 AM    |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| Demonstration of Portable Performance of Scientific Machine    | Khalid Hossain                                    | 10:30 AM - 10:45 AM |
+|                                                                |                                                   |                     |
+| Learning on High Performance Computing Systems                 |                                                   |                     |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| WisdomWombat: A Polyglot Dataflow CFD Code Using Python        | Julius Donnert                                    | 10:45 AM - 11 AM    |
+|                                                                |                                                   |                     |
+|  and Dragon                                                    |                                                   |                     |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| Maximizing Data Utility for HPC Python Workflow Execution      | Thanh Son Phung                                   | 11 AM - 11:15 AM    |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| Dragon Proxy Runtimes and Multi-System Workflows               | Nick Radcliffe                                    | 11:15 AM - 11:30 AM |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| HPPSS Panel Discussion                                         | Fernanda Foertter, Torsten Hoefler, Siu Kwan Lam, | 11:30 AM - 12:20 PM |
+|                                                                |                                                   |                     |
+|                                                                | Travis Oliphant, Ben Zaitlen, Richard Zamora      |                     |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
+| HPPSS Concluding Remarks                                       | Pete Mendygral, Daniel Margala, Sam Foreman       | 12:20 PM - 12:30 PM |
++----------------------------------------------------------------+---------------------------------------------------+---------------------+
 
 
 .. _Travis:
@@ -57,6 +59,7 @@ incentives for the world to thrive with innovation.
 Speaker Email
 travis@quansight.com
 
+|
 
 Panel Discussion
 ================
@@ -82,6 +85,7 @@ Project and was co_PI on two ECP projects: Kokkos and Training. For her last two
 working on the CANDLE project (aka Biden's Cancer Moonshot). Throughout her time at ORNL she also served on the C++,
 OpenMP, and OpenACC language committees where she was the release manager for the latter.
 
+|
 
 Torsten Hoefler (ETH Zurich)
 ----------------------------
@@ -99,6 +103,7 @@ the MPI-2.2 and MPI-3.0 standards. He received the IEEE CS Sidney Fernbach Award
 Jack Dongarra award, the Latsis prize of ETH Zurich, as well as both ERC starting and consolidator grants. Additional
 information about Torsten can be found on his homepage at htor.inf.ethz.ch.
 
+|
 
 Siu Kwan Lam (Anaconda)
 -----------------------
@@ -120,17 +125,19 @@ Travis Oliphant (Quansight)
 
 Travis is also our invited speaker, and you can learn more about him :ref:`here<Travis>`.
 
+|
 
 Ben Zaitlan (NVIDIA)
 --------------------
 
 .. figure:: images/zaitlen.png
    :align: left
-   :scale: 10 %
+   :scale: 8 %
 
 Benjamin is a System Software Manager at NVIDIA. He has been a long time contributor to the Python and PyData ecosystem.
 Currently he is helping accelerate the PyData stack on GPUs as part of the RAPIDS project
 
+|
 
 Richard Zamora (NVIDIA)
 -----------------------
