@@ -124,6 +124,8 @@ framework. He remains passionate about exploring ways to integrate compiler tech
 
 |
 
+|
+
 Travis Oliphant (Quansight)
 ---------------------------
 
@@ -140,6 +142,8 @@ Ben Zaitlan (NVIDIA)
 
 Benjamin is a System Software Manager at NVIDIA. He has been a long time contributor to the Python and PyData ecosystem.
 Currently he is helping accelerate the PyData stack on GPUs as part of the RAPIDS project
+
+|
 
 |
 
