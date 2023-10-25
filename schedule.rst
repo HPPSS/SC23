@@ -1,7 +1,7 @@
 Workshop Schedule
 +++++++++++++++++
 
-HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM.
+HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM MT.
 
 +--------------------------------------------------------------------+---------------------------------------------------+---------------------+
 | Event                                                              | Speaker(s)                                        | Time                |
@@ -123,7 +123,7 @@ Ben Zaitlan (NVIDIA)
 
 .. figure:: images/zaitlen.png
    :align: left
-   :scale: 20 %
+   :scale: 10 %
 
 Benjamin is a System Software Manager at NVIDIA. He has been a long time contributor to the Python and PyData ecosystem.
 Currently he is helping accelerate the PyData stack on GPUs as part of the RAPIDS project
