@@ -18,6 +18,8 @@ study outflows from supermassive blackholes.
 
 |
 
+|
+
 Sam Foreman (Argonne National Labs)
 -----------------------------------
 
@@ -29,6 +31,8 @@ Sam Foreman is a computational scientist with a background in high energy physic
 He is generally interested in the application of machine learning to computational problems in physics, particularly
 within the context of high performance computing. Sam's current research focuses on using deep generative modeling to
 help build better sampling algorithms for simulations in lattice gauge theory.
+
+|
 
 |
 
@@ -44,6 +48,8 @@ he was a NERSC Exascale Science Application Program (NESAP) postdoctoral fellow 
 working with the Dark Energy Spectroscopic Instrument (DESI) data processing team, focusing on high performance
 computing with GPUs using Python. Daniel has a PhD in Physics from the University of California, Irvine and a BS in
 Physics from the University of California, Los Angeles.
+
+|
 
 |
 
