@@ -1,8 +1,43 @@
 Workshop Schedule
 +++++++++++++++++
 
-HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM. Please stay tuned for updates on the agenda for
-the day. We are very pleased to announce the invited speaker for the workshop is Travis Oliphant.
+HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM.
+
+.. list-table:: HPPSS Schedule
+    :widths: 50 35 15
+    :header-rows: 1
+
+    * - Event
+      - Speaker
+      - Time
+    * - HPPSS Introduction
+      - Pete Mendygral, Daniel Margala, Sam Foreman
+      - 9 AM - 9:15 AM
+    * - Invited Speaker
+      - Travis Oliphant
+      - 9:15 AM - 10 AM
+    * - Morning Break
+      -
+      - 10 AM - 10:30 AM
+    * - Demonstration of Portable Performance of Scientific Machine Learning on High Performance Computing Systems
+      - Khalid Hossain
+      - 10:30 AM - 10:45 AM
+    * - WisdomWombat: A Polyglot Dataflow CFD Code Using Python and Dragon
+      - Julius Donnert
+      - 10:45 AM - 11 AM
+    * - Maximizing Data Utility for HPC Python Workflow Execution
+      - Thanh Son Phung
+      - 11 AM - 11:15 AM
+    * - Dragon Proxy Runtimes and Multi-System Workflows
+      - Nick Radcliffe
+      - 11:15 AM - 11:30 AM
+    * - HPPSS Panel Discussion
+      - Fernanda Foertter, Torsten Hoefler, Siu Kwan Lam, Travis Oliphant, Ben Zaitlen, Richard Zamora
+      - 11:30 AM - 12:20 PM
+    * - HPPSS Concluding Remarks
+      - Pete Mendygral, Daniel Margala, Sam Foreman
+      - 12:20 PM - 12:30 PM
+
 
 .. _Travis:
 
@@ -74,8 +109,8 @@ Jack Dongarra award, the Latsis prize of ETH Zurich, as well as both ERC startin
 information about Torsten can be found on his homepage at htor.inf.ethz.ch.
 
 
-Siu Kwan (Anaconda)
--------------------
+Siu Kwan Lam (Anaconda)
+-----------------------
 
 .. figure:: images/siu_profile.JPG
    :align: left
@@ -97,6 +132,13 @@ Travis is also our invited speaker, and you can learn more about him :ref:`here<
 
 Ben Zaitlan (NVIDIA)
 --------------------
+
+.. figure:: images/zaitlen.png
+   :align: left
+   :scale: 20 %
+
+Benjamin is a System Software Manager at NVIDIA. He has been a long time contributor to the Python and PyData ecosystem.
+Currently he is helping accelerate the PyData stack on GPUs as part of the RAPIDS project
 
 
 Richard Zamora (NVIDIA)
