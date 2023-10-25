@@ -18,7 +18,7 @@ HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM MT.
 +----------------------------------------------------------------+---------------------------------------------------+---------------------+
 | WisdomWombat: A Polyglot Dataflow CFD Code Using Python        | Julius Donnert                                    | 10:45 AM - 11 AM    |
 |                                                                |                                                   |                     |
-|  and Dragon                                                    |                                                   |                     |
+| and Dragon                                                     |                                                   |                     |
 +----------------------------------------------------------------+---------------------------------------------------+---------------------+
 | Maximizing Data Utility for HPC Python Workflow Execution      | Thanh Son Phung                                   | 11 AM - 11:15 AM    |
 +----------------------------------------------------------------+---------------------------------------------------+---------------------+
@@ -120,6 +120,8 @@ framework. He remains passionate about exploring ways to integrate compiler tech
 
 |
 
+|
+
 Travis Oliphant (Quansight)
 ---------------------------
 
@@ -136,6 +138,8 @@ Ben Zaitlan (NVIDIA)
 
 Benjamin is a System Software Manager at NVIDIA. He has been a long time contributor to the Python and PyData ecosystem.
 Currently he is helping accelerate the PyData stack on GPUs as part of the RAPIDS project
+
+|
 
 |
 
