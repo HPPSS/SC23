@@ -13,6 +13,7 @@ HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM MT.
 | Morning Break                                                      |                                                   | 10 AM - 10:30 AM    |
 +--------------------------------------------------------------------+---------------------------------------------------+---------------------+
 | Demonstration of Portable Performance of Scientific Machine        | Khalid Hossain                                    | 10:30 AM - 10:45 AM |
+|                                                                    |                                                   |                     |
 | Learning on High Performance Computing Systems                     |                                                   |                     |
 +--------------------------------------------------------------------+---------------------------------------------------+---------------------+
 | WisdomWombat: A Polyglot Dataflow CFD Code Using Python and Dragon | Julius Donnert                                    | 10:45 AM - 11 AM    |
@@ -22,10 +23,12 @@ HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM MT.
 | Dragon Proxy Runtimes and Multi-System Workflows                   | Nick Radcliffe                                    | 11:15 AM - 11:30 AM |
 +--------------------------------------------------------------------+---------------------------------------------------+---------------------+
 | HPPSS Panel Discussion                                             | Fernanda Foertter, Torsten Hoefler, Siu Kwan Lam, | 11:30 AM - 12:20 PM |
+|                                                                    |                                                   |                     |
 |                                                                    | Travis Oliphant, Ben Zaitlen, Richard Zamora      |                     |
 +--------------------------------------------------------------------+---------------------------------------------------+---------------------+
 | HPPSS Concluding Remarks                                           | Pete Mendygral, Daniel Margala, Sam Foreman       | 12:20 PM - 12:30 PM |
-+--------------------------------------------------------------------+---------------------------------------------------+---------------------+
++--------------------------------------------------------------------+---------------------------------------------------+-------------
+
 
 .. _Travis:
 
