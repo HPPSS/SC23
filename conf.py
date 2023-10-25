@@ -78,4 +78,3 @@ html_css_files = [
 html_theme_options = {}
 
 add_module_names = False
-
