@@ -1,7 +1,7 @@
 Workshop Schedule
 +++++++++++++++++
 
-HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM MT.
+HPPSS will take place on Sunday, November 12th from 9 AM - 12:30 PM MT in room 505.
 
 +----------------------------------------------------------------+---------------------------------------------------+---------------------+
 | Event                                                          | Speaker(s)                                        | Time                |
