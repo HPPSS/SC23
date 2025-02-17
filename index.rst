@@ -31,6 +31,8 @@ Denver, Colorado, November 12-17, 2023.
     Call for Demos/Papers <callfordemos.rst>
     Organization <organizers.rst>
     Schedule <schedule.rst>
+    SC24 Workshop Site <https://hppss.github.io/SC24>
+    SC25 Workshop Site <https://hppss.github.io/SC25>
 
 
 Diversity and Inclusion
